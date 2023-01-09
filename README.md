@@ -28,8 +28,8 @@
   <img style="padding-left: 4px; padding-right: 4px" height=60px src="https://testing-library.com/img/octopus-128x128.png">  
   <img style="padding-left: 4px; padding-right: 4px" height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png">
   <img style="padding-left: 4px; padding-right: 4px" height=65px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67">
-  <img height=65px src="https://img.icons8.com/color/512/npm.png"> 
   <img width=65 height=65px src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"> 
+  <img height=65px src="https://img.icons8.com/color/512/npm.png"> 
 </div>
 
 ### Ferramentas
