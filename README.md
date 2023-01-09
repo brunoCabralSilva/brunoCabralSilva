@@ -1,7 +1,7 @@
 ### Saudações! Eu sou o Bruno Cabral, apaixonado por RPG e Nordeste, amante da tecnologia e estudante de Desenvolvimento Web na Trybe!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=white) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact)](https://github.com/brunoCabralSilva/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&theme=dracula&exclude_repo=github-readme-stats,brunoCabralSilva.github.io)](https://github.com/brunoCabralSilva/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
