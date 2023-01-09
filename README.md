@@ -8,98 +8,92 @@
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 
-<table>
- <tr>
-  <td align="center" width="20%">
-    <p><b><center>Sass</center></b></p> 
-    <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass">
- </td>
-  <td align="center" width="20%">
-    <p><b><center>HTML 5</center></b></p> 
-    <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png"> 
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <p><b><center>Sass</center></b></p> 
+      <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass">
   </td>
-  <td align="center" width="20%">
-    <p><b><center>CSS</center></b></p> 
-    <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>JavaScript</center></b></p> 
-    <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Bash</center></b></p>
-    <img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Jest</center></b></p> 
-    <img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
-  </td>
-</tr>
- 
-<tr>
-  <td align="center" width="30%">
-    <p><b><center>Testing Library</center></b></p> 
-    <img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Git</center></b></p> 
-    <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>ReactJS</center></b></p> 
-    <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>TaillWindCss</center></b></p> 
-    <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Redux</center></b></p> 
-    <img height=65px src="https://img.icons8.com/color/512/redux.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Docker</center></b></p> 
-    <img height=65px src="https://img.icons8.com/fluency/512/docker.png"> 
-  </td>
-</tr>
-  
- 
-<tr>
-  <td align="center" width="20%">
-    <p><b><center>Chai</center></b></p> 
-    <img height=60px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Express.Js</center></b></p> 
-    <img height=65px src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Node.Js</center></b></p> 
-    <img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>NPM</center></b></p> 
-    <img height=65px src="https://img.icons8.com/color/512/npm.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>Sequelize</center></b></p> 
-    <img height=65px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png"> 
-  </td>
-  <td align="center" width="20%">
-    <p><b><center>TypeScript</center></b></p> 
-    <img height=70px src="https://img.icons8.com/fluency/512/typescript.png"> 
-  </td>
-</tr>
-<tr>
- <td align="center" width="20%">
-  <p><b><center>Mocha</center></b></p> 
-  <img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"> 
-</td>
-</tr>
- 
+    <td align="center" width="20%">
+      <p><b><center>HTML 5</center></b></p> 
+      <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>CSS</center></b></p> 
+      <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>JavaScript</center></b></p> 
+      <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Bash</center></b></p>
+      <img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Jest</center></b></p> 
+      <img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="30%">
+      <p><b><center>Testing Library</center></b></p> 
+      <img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Git</center></b></p> 
+      <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>ReactJS</center></b></p> 
+      <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>TaillWindCss</center></b></p> 
+      <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Redux</center></b></p> 
+      <img height=65px src="https://img.icons8.com/color/512/redux.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Docker</center></b></p> 
+      <img height=65px src="https://img.icons8.com/fluency/512/docker.png"> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <p><b><center>Chai</center></b></p> 
+      <img height=60px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Express.Js</center></b></p> 
+      <img height=65px src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Node.Js</center></b></p> 
+      <img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>NPM</center></b></p> 
+      <img height=65px src="https://img.icons8.com/color/512/npm.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>Sequelize</center></b></p> 
+      <img height=65px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png"> 
+    </td>
+    <td align="center" width="20%">
+      <p><b><center>TypeScript</center></b></p> 
+      <img height=70px src="https://img.icons8.com/fluency/512/typescript.png"> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <p><b><center>Mocha</center></b></p> 
+      <img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"> 
+    </td>
+  </tr>
 </table>
-
-### Principais Tecnologias
 
 ### Ferramentas
 
@@ -123,4 +117,4 @@
   <img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="whatsapp" />
 </div>
 
-![snake gif](https://github.com/brunoCabralSilva/brunoCabralSilva/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/brunoCabralSilva/brunoCabralSilva/blob/output/github-contribution-grid-snake.gif) -->
