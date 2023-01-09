@@ -60,12 +60,12 @@
       <p><b><center>Docker</center></b></p> 
       <img height=65px src="https://img.icons8.com/fluency/512/docker.png"> 
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <p><b><center>Chai</center></b></p> 
       <img height=60px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"> 
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <p><b><center>Express.Js</center></b></p> 
       <img height=65px src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"> 
