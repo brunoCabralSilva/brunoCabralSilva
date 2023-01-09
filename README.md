@@ -17,6 +17,7 @@
   <img height=65px src="https://img.icons8.com/fluency/512/typescript.png">
   <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
   <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass" />
+  <img src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67" height=60px alt="motion" />
   <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
   <img height=65px src="https://img.icons8.com/color/512/redux.png"> 
   <img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
@@ -45,7 +46,7 @@
   <img src="https://camo.githubusercontent.com/529f3db66dcea87286a50a8bbb379acc5b6485805215e4cce5365aa43b7ddaca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465" alt="trello" />
 </div>
 
-### Principais redes!
+### Principais redes
 <div> 
   <a href="https://www.youtube.com/c/GarouNordeste" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ga.bryell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
