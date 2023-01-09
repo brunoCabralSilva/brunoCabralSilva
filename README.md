@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dracula"/>
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
-<div>
+<div style="display: flex; flex-flow:wrap">
   <div align="center">
     <p><b><center>Sass</center></b></p> 
     <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass">
@@ -35,7 +35,8 @@
   <div align="center" width="14%">
     <p><b><center>Testing Library</center></b></p> 
     <img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
-  </div><div align="center" width="14%">
+  </div>
+  <div align="center" width="14%">
     <p><b><center>Git</center></b></p> 
     <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
   </div>
