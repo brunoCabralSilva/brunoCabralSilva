@@ -8,6 +8,22 @@
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 
+<table>
+    <tr>
+        <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
+        <td><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
+        <td><img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"></td>
+        <td><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
+        <td><img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript"></td>
+        <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
+        <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"></td>
+    </tr>
+    <tr> 
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
+        <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
+    </tr>
+</table>  
 
 ### Principais Tecnologias
 
