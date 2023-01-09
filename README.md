@@ -7,26 +7,30 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dracula"/>
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
+
+### Principais Tecnologias
+
 <div>
   <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png" /> 
   <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
-  <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
+  <img height=60px src="https://img.icons8.com/color/344/javascript.png">
+  <img height=70px src="https://img.icons8.com/fluency/512/typescript.png">
+  <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
   <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass" />
   <img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
-  <img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
-  <img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
   <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
   <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-  <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
+  
   <img height=65px src="https://img.icons8.com/color/512/redux.png"> 
   <img height=65px src="https://img.icons8.com/fluency/512/docker.png"> 
   <img height=60px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67">
-  <img height=65px src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"> 
   <img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
   <img height=65px src="https://img.icons8.com/color/512/npm.png"> 
   <img height=65px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png"> 
-  <img height=70px src="https://img.icons8.com/fluency/512/typescript.png"> 
-  <img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"> 
+  
+  <img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png">
+  <img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+  <img height=60px src="https://testing-library.com/img/octopus-128x128.png">  
 </div>
 
 ### Ferramentas
