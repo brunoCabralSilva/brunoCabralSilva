@@ -7,22 +7,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dracula"/>
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
-<div style="display: flex; flex-flow:wrap">
-  <div align="center">
-    <p><b><center>Sass</center></b></p> 
-    <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass">
-  </div>
-  <div align="center" width="15%">
-    <p><b><center>HTML 5</center></b></p> 
-    <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png"> 
-  </div>
-  <div align="center" width="15%">
-    <p><b><center>CSS</center></b></p> 
-    <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
-  </div>
+<div>
+  <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png" /> 
+  <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
+  <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
+  <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass" />
+</div>
+  
   <div align="center" width="15%">
     <p><b><center>JavaScript</center></b></p> 
-    <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
   </div>
   <div align="center" width="15%">
     <p><b><center>Bash</center></b></p>
