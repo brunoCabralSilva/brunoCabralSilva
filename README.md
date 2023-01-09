@@ -24,10 +24,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="60px" alt="MongoDB">
   <img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="60px" alt="MySQL">
   <img height=65px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png"> 
-  <img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
-  <img height=60px src="https://testing-library.com/img/octopus-128x128.png">  
-  <img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png">
-  <img height=65px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67">
+  <img style="padding-left: 4px; padding-right: 4px" height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+  <img style="padding-left: 4px; padding-right: 4px" height=60px src="https://testing-library.com/img/octopus-128x128.png">  
+  <img style="padding-left: 4px; padding-right: 4px" height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png">
+  <img style="padding-left: 4px; padding-right: 4px" height=65px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67">
   <img height=65px src="https://img.icons8.com/color/512/npm.png"> 
   <img width=65 height=65px src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"> 
 </div>
