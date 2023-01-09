@@ -2,6 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&theme=dracula&layout=compact)](https://github.com/brunoCabralSilva/github-readme-stats)
 
+<div align="left">
+  <a href="https://github.com/brunoCabralSilva">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=aura&count_private=true"/>
+</div>
+
 
 ### Principais Tecnologias!
 <div style="display: inline_block"><br>
