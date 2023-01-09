@@ -35,8 +35,7 @@
   <div align="center" width="14%">
     <p><b><center>Testing Library</center></b></p> 
     <img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
-  </div>
-  <div align="center" width="14%">
+  </div><div align="center" width="14%">
     <p><b><center>Git</center></b></p> 
     <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
   </div>
