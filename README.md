@@ -13,8 +13,8 @@
 <div>
   <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png" /> 
   <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
-  <img height=60px src="https://img.icons8.com/color/344/javascript.png">
-  <img height=70px src="https://img.icons8.com/fluency/512/typescript.png">
+  <img height=65px src="https://img.icons8.com/color/344/javascript.png">
+  <img height=65px src="https://img.icons8.com/fluency/512/typescript.png">
   <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
   <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass" />
   <img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
