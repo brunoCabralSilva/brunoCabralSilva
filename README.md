@@ -1,6 +1,10 @@
 ### Saudações! Eu sou o Bruno Cabral, apaixonado por RPG e Nordeste, amante da tecnologia e estudante de Desenvolvimento Web na Trybe!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&theme=dracula&layout=compact)](https://github.com/brunoCabralSilva/github-readme-stats)
+<div>
+  <a href="https://github.com/brunoCabralSilva">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=react" />
+</div>
 
 
 ### Principais Tecnologias!
