@@ -1,9 +1,5 @@
 ### Saudações! Eu sou o Bruno Cabral, apaixonado por RPG e Nordeste, amante da tecnologia e estudante de Desenvolvimento Web na Trybe!
 
-<div align="left">
-  <a href="https://github.com/brunoCabralSilva">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -14,6 +10,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=brunoCabralSilva&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact)](https://github.com/brunoCabralSilva/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">         
