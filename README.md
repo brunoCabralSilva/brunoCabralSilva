@@ -19,7 +19,7 @@
   <img src="https://img.icons8.com/color/2x/sass.png" height=60px alt="Sass" />
   <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
   <img height=65px src="https://img.icons8.com/color/512/redux.png"> 
-  <img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="node.js"> 
+  <img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
   <img height=65px src="https://img.icons8.com/fluency/512/docker.png">
   <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="60px" alt="MongoDB">
   <img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="60px" alt="MySQL">
