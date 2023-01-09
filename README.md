@@ -8,7 +8,7 @@
   <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoCabralSilva&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="20%">
       <p><b><center>Sass</center></b></p> 
