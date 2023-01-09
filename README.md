@@ -4,7 +4,6 @@
 
 
 ### Principais Tecnologias!
-
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
@@ -24,8 +23,7 @@
                    
 </div>
   
-  ### Principais redes!
- 
+### Principais redes!
 <div> 
   <a href="https://www.youtube.com/c/GarouNordeste" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ga.bryell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
