@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/master/img/header.png" alt="" />
 
-### Saudações! Eu sou o Bruno Cabral, apaixonado por RPG e Nordeste, amante da tecnologia e estudante de Desenvolvimento Web na Trybe!
+### Saudações! Eu sou o Bruno Cabral, apaixonado por RPG, Nordeste e Desenvolvimento Web!
 
 <div align="left">
   <a href="https://github.com/brunoCabralSilva">
